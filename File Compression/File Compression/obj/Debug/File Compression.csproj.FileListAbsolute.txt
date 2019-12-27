@@ -1,0 +1,9 @@
+C:\Users\Awais Aslam\Desktop\File Compression\File Compression\bin\Debug\File Compression.exe.config
+C:\Users\Awais Aslam\Desktop\File Compression\File Compression\bin\Debug\File Compression.exe
+C:\Users\Awais Aslam\Desktop\File Compression\File Compression\bin\Debug\File Compression.pdb
+C:\Users\Awais Aslam\Desktop\File Compression\File Compression\obj\Debug\File Compression.csprojResolveAssemblyReference.cache
+C:\Users\Awais Aslam\Desktop\File Compression\File Compression\obj\Debug\File_Compression.Form1.resources
+C:\Users\Awais Aslam\Desktop\File Compression\File Compression\obj\Debug\File_Compression.Properties.Resources.resources
+C:\Users\Awais Aslam\Desktop\File Compression\File Compression\obj\Debug\File Compression.csproj.GenerateResource.Cache
+C:\Users\Awais Aslam\Desktop\File Compression\File Compression\obj\Debug\File Compression.exe
+C:\Users\Awais Aslam\Desktop\File Compression\File Compression\obj\Debug\File Compression.pdb
